@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../easygou-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../easygou-parent/easygou-basic-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../easygou-parent/easygou-basic-parent/easygou-basic-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../easygou-parent/easygou-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../easygou-parent/easygou-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../easygou-parent/easygou-plat-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../easygou-parent/easygou-plat-parent/easygou-plat-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../easygou-parent/easygou-plat-parent/easygou-plat-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../easygou-parent/easygou-zuul" charset="UTF-8" />
+  </component>
+</project>
